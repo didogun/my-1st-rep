@@ -1,2 +1,2 @@
-# my-1st-rep
+# my-first-repo
 something new to me.
